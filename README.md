@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Habits é um app para ajudar a ter um controle de hábitos.
 Tornando assim o nosso dia mais produtivo e organizado.
 
-- [Acesse o projeto finalizado, online]()
+- [Visite o meu projeto online](RiquelmyDev.github.io/nlw-setup)
 
 ## 🔖 Layout
 
